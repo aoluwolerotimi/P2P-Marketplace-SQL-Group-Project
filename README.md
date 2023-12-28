@@ -10,10 +10,10 @@ The platform allows users to list items for sale, discover products, chat with
 
 ## Data Modeling and Schemas
 #### ERD
-Image URL will go here
+![ERD](https://github.com/aoluwolerotimi/P2P-Marketplace-SQL-Group-Project/blob/main/Images/ERD.png)
 
 #### Physical Model Representation
-Image URL will go here
+![Phys_Mod](https://github.com/aoluwolerotimi/P2P-Marketplace-SQL-Group-Project/blob/main/Images/Physical-Model.png)
 
 ## Highlighted Analytical Queries - Platform Health Checks
 #### Conversion Rate for Sellers
